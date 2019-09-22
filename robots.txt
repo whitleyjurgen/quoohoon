@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ekoosoita.familylife.rocks/sitemap.xml
